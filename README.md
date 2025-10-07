@@ -1,6 +1,6 @@
 # Comparative Analysis of SVM-BERT and CNN-BERT in Relation Extraction
 
-This repository contains the project for the Text Mining course, which implements and compares two different models for relation extraction on the FewRel dataset.
+This repository contains the project for the Text Mining elective, which implements and compares two different models for relation extraction on the FewRel dataset.
 
 ## 👥 Group Members
 
